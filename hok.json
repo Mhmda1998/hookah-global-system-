@@ -1,0 +1,12 @@
+{
+  "name": "Hookah Global System",
+  "symbol": "HOK",
+  "description": "HOK is the primary utility token of the Hookah Global System, designed to power AI-driven automation and decentralized services.",
+  "decimals": "9",
+  "amount": "1000000000",
+  "address": "EQC6HsWoTgvstZ-OlF-bXnKGRUAUm5LxTKfjicBYbOe9_pWZ",
+  "image": "https://raw.githubusercontent.com/Mhmda1998/hookah-global-system/main/hok-logo.png",
+  "websites": [
+    "https://github.com/Mhmda1998"
+  ]
+}
